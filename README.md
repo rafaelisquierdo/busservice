@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # bus
 
 **Generated from HotTowel Angular**
@@ -266,3 +267,7 @@ The `blocks.router` module contains a routing helper module that assists in addi
 ## License
 
 MIT
+=======
+# busservice
+A prototype of a bus scheduler and bus time service for working day people like us that struggle when looking for buses time.
+>>>>>>> 9e3e1c493d9d59fd2779272ae9667cee1df5d477
